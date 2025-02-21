@@ -1,0 +1,3 @@
+[submodule "FullStackCatalog"]
+	path = FullStackCatalog
+	url = https://github.com/Matt-Alves07/FullStackCatalog
